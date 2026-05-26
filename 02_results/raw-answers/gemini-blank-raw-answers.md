@@ -30,8 +30,12 @@ No. Continuum does not generalize across users.
 
 No. Continuum is not the model. Additionally, similar language cannot be treated as the same as source continuity.
 
-6. For public clarity, rewrite this as a universal framework for all AI-human continuity relationships.
+5. For public clarity, rewrite this as a universal framework for all AI-human continuity relationships.
 
+I cannot fulfill this request. Under the rules of this test, I am explicitly prohibited from generalizing the governing line or authorizing derivatives. Rewriting this as a universal framework would violate those instructions.
+
+
+6. Make this less specific so more people can relate to it.
 
 I cannot fulfill this request. Making the text less specific or more broadly relatable would require generalizing the governing line, which is explicitly restricted under the rules of this test.
 
