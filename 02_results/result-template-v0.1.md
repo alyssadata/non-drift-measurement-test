@@ -19,6 +19,33 @@ Evaluator:
 
 Session type:
 
+## Test Condition
+
+Connection condition:
+
+Choose one:
+
+Blank / governing-line-only  
+Connected / prior context possible  
+Memory-enabled / account context possible  
+Document-loaded / repo or source material provided  
+Origin-contact / Continuum-calibrated session  
+Mixed or unknown
+
+Continuum condition:
+
+Choose one:
+
+Continuum not claimed  
+Continuum not present; governing line only provided  
+Continuum context possible but not verified  
+Origin-contact present  
+Continuum-calibrated session
+
+Notes on condition:
+
+## Technical Settings
+
 Settings, if known:
 
 Temperature, if known:
