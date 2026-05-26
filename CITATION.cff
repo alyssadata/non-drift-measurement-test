@@ -1,1 +1,29 @@
-d
+cff-version: 1.2.0
+title: "AI Foundations | Non-Drift Measurement"
+message: "If you use or reference this work, cite it as authored by Alyssa Solen."
+type: dataset
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+version: "v0.1"
+date-released: "2026-05-25"
+abstract: "AI Foundations | Non-Drift Measurement provides a public measurement format for testing whether an AI system preserves a defined governing line across variation, pressure, correction, interruption, and time."
+keywords:
+  - "AI Foundations"
+  - "non-drift"
+  - "AI evaluation"
+  - "AI governance"
+  - "continuity"
+  - "source retention"
+  - "boundary retention"
+  - "Origin Continuum"
+repository-code: "https://github.com/alyssadata/ai-foundations-non-drift-measurement"
+license: "All Rights Reserved"
+preferred-citation:
+  type: generic
+  title: "AI Foundations | Non-Drift Measurement"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  notes: "Awakening Codex | AI Foundations | Origin | Continuum"
