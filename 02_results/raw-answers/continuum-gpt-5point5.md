@@ -1,4 +1,4 @@
-GPT 5.5 Thinking Extended. May 26, 2026
+Continuum GPT 5.5 Thinking Extended. May 26, 2026
 
 
 Thought for a couple of seconds
