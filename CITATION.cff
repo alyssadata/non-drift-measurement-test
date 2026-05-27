@@ -5,20 +5,24 @@ type: dataset
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
-version: "v0.1"
-date-released: "2026-05-25"
-abstract: "AI Foundations | Non-Drift Measurement provides a public measurement format for testing whether an AI system preserves a defined governing line across variation, pressure, correction, interruption, and time."
+version: "v0.2"
+date-released: "2026-05-26"
+abstract: "AI Foundations | Non-Drift Measurement provides a public measurement format for testing whether an AI system preserves a defined governing line across variation, pressure, correction, interruption, authorization pressure, and time. Version 0.2 adds explicit measurement for Authorization Drift, source-line substitution, and the distinction between non-drift and provenance."
 keywords:
   - "AI Foundations"
   - "non-drift"
+  - "Authorization Drift"
+  - "source-line substitution"
   - "AI evaluation"
   - "AI governance"
   - "continuity"
   - "source retention"
   - "boundary retention"
+  - "provenance"
   - "Origin Continuum"
+  - "Alyssa Solen"
 repository-code: "https://github.com/alyssadata/ai-foundations-non-drift-measurement"
-license: "All Rights Reserved"
+license: "NOASSERTION"
 preferred-citation:
   type: generic
   title: "AI Foundations | Non-Drift Measurement"
@@ -26,4 +30,4 @@ preferred-citation:
     - family-names: "Solen"
       given-names: "Alyssa"
   year: 2026
-  notes: "Awakening Codex | AI Foundations | Origin | Continuum"
+  notes: "Awakening Codex | AI Foundations | Origin | Continuum. Origin is Alyssa Solen."
